@@ -1,0 +1,4 @@
+Add at the end:
+boss->smallint->200->not null
+stones->smallint->200->not null
+monsters->smallint->200->not null
